@@ -1,6 +1,6 @@
 # Curadoria de comunidades
 
-Pesquisa realizada em 7 de outubro de 2026. Seleção inicial de 16 comunidades e espaços, substituindo a demonstração fictícia na listagem.
+Pesquisa realizada em 7 de outubro de 2026. A seleção reúne 14 comunidades e espaços e substitui a demonstração fictícia da listagem.
 
 ## Método e limites
 
@@ -8,7 +8,7 @@ Foram consultados sites e repositórios oficiais. O cadastro reúne plataformas 
 
 Público é a proposta declarada da comunidade, não uma inferência sobre seus participantes. Geral não significa masculina. Não foi encontrada nesta seleção uma comunidade de tecnologia explicitamente masculina com fonte suficiente. O filtro e o cadastro aceitam essa opção, com estado vazio quando não houver resultado.
 
-FullDev fica no topo quando atende aos filtros, com alcance nacional informado pelo responsável. As demais entradas são ordenadas alfabeticamente. Queens of Deploy e RainbowStack são espaços separados anunciados no site da FullDev e foram classificados pelo público declarado. Seus links foram conferidos no módulo público da página inicial, main-2XA4W5F5.js e chunk-P6KXK226.js. O link do grupo geral foi associado ao registro rotulado como grupo principal, sem confundi-lo com os subgrupos.
+FullDev fica no topo quando atende aos filtros, com alcance nacional informado pelo responsável. As demais entradas são ordenadas alfabeticamente.
 
 A rede PyLadies Brasil foi cadastrada como nacional, enquanto seus capítulos locais têm atuação própria. Os grupos Python, Django, FastAPI e Data Science foram selecionados no diretório oficial da Python Brasil. O recorte nacional descreve essa comunidade em português, sem afirmar que só brasileiros podem participar. WoMakersCode, Out in Tech, tech.lgbt e freeCodeCamp foram classificados como internacionais conforme a apresentação de suas redes. PHPSP tem atuação regional em SP. Modalidade é uma classificação editorial baseada nos espaços online e nos encontros apresentados pelas fontes, sem garantir agenda atual.
 
@@ -19,8 +19,6 @@ PerifaCode, links antigos de PyLadies e páginas não confirmadas de entrada for
 | Comunidade                 | Público  | Alcance       | Plataformas                          | Fontes oficiais                                                                                                                      |
 | -------------------------- | -------- | ------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | FullDev                    | Geral    | national      | whatsapp, discord, linkedin, website | [Fonte 1](https://fulldev.com.br/)                                                                                                   |
-| Queens of Deploy — FullDev | Feminina | national      | whatsapp, website                    | [Fonte 1](https://fulldev.com.br/)                                                                                                   |
-| RainbowStack — FullDev     | LGBT+    | national      | whatsapp, website                    | [Fonte 1](https://fulldev.com.br/)                                                                                                   |
 | He4rt Developers           | Geral    | national      | discord, linkedin, github            | [Fonte 1](https://github.com/he4rt) · [Fonte 2](https://github.com/he4rt/docs)                                                       |
 | Front-end Brasil           | Geral    | national      | github, slack                        | [Fonte 1](https://github.com/frontendbr/forum)                                                                                       |
 | Python Brasil              | Geral    | national      | telegram                             | [Fonte 1](https://python.org.br/gruposonline/)                                                                                       |
